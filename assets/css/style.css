@@ -3,8 +3,8 @@
             --light-green: #1a7d4c;
             --gold: #d4af37;
             --light-gold: #f4e4a9;
-            --white: #E7EAE5;
-            --off-white: #f8f8f8;
+            --white: #fffff;
+            --off-white: #E7EAE5;
             --dark-bg: #0a1929;
             --shadow: rgba(10, 25, 41, 0.2);
         }
@@ -765,3 +765,4 @@
         }
 
    
+
