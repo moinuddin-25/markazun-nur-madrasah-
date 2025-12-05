@@ -521,7 +521,7 @@
             transition: all 0.3s ease;
             position: relative;
             height: 250px;
-            background: var(--light-green);
+            background: var(--white);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -765,6 +765,7 @@
         }
 
    
+
 
 
 
